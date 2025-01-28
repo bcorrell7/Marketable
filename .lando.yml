@@ -1,0 +1,6 @@
+name: marketable
+recipe: pantheon
+config:
+  framework: drupal8
+  site: marketable
+  id: 92ce64e0-bb3f-424c-8a38-2595a79f8a7c
